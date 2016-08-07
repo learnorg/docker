@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Docker Tips</title>
+  
+  <link href="/docker/atom.xml" rel="self"/>
+  
+  <link href="https://learnorg.github.io/"/>
+  <updated>2016-08-07T11:33:14.000Z</updated>
+  <id>https://learnorg.github.io/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker 基本用法</title>
+    <link href="https://learnorg.github.io/2016/08/07/docker-basic-usage-1/"/>
+    <id>https://learnorg.github.io/2016/08/07/docker-basic-usage-1/</id>
+    <published>2016-08-07T10:38:42.000Z</published>
+    <updated>2016-08-07T11:33:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="拉取-docker-镜像"><a href="#拉取-docker-镜像" class="headerlink" title="拉取 docker 镜像"></a>拉取 docker 镜像</h2><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">docker pull ubuntu:latest</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;拉取-docker-镜像&quot;&gt;&lt;a href=&quot;#拉取-docker-镜像&quot; class=&quot;headerlink&quot; title=&quot;拉取 docker 镜像&quot;&gt;&lt;/a&gt;拉取 docker 镜像&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;t
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
